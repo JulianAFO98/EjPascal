@@ -1,0 +1,15 @@
+12345 Juan Perez                       
+23456 Maria Lopez                     
+34567 Carlos Gomez                   
+45678 Laura Sanchez                   
+56789 Pedro Torres                    
+56234 Ana Gutierrez                  
+56245 Diego Fernandez                 
+56356 Sofia Ramirez                  
+57467 Valeria Castillo                 
+57578 Mateo Silva                      
+58689 Lucia Garcia                     
+58790 Martin Ortega                    
+59891 Paula Medina                     
+59992 Andris Ruiz                 
+60000                                            

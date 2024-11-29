@@ -1,0 +1,2 @@
+rch,dia);
+     WriteLn(dia);

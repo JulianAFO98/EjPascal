@@ -1,0 +1,15 @@
+010 Trecking         2000 400
+003 City Tour        1000 200
+014 Viaje en Avion   5000 800
+001 Paseo a las Sie  1200 300
+007 Visita al Muse   900  100
+013 Excursion A      1600 350
+005 Aventura en Bus  1800 400
+008 Recorrido C      1100 150
+004 Viaje en Barco   2500 500
+015 Excursion   D    1400 300
+009 Paseo en Globo   3000 600
+002 Laguna del Sol   1500 350
+006 Excursion Noctu  1300 250
+011 Paseo Bici       800  50
+012 Visita Inglesa   950  120

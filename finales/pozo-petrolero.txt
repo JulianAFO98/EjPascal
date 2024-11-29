@@ -1,0 +1,5 @@
+ABC Chubut                        2000
+JKL Neuquen                       3000
+MNO Rio Negro                     1500
+STU La pampa                      1260
+HIJ Vaca Loca                     1700

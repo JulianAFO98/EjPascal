@@ -1,0 +1,4 @@
+Trigo     95
+Maiz      83
+Soja      123
+Girasol   114

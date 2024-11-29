@@ -1,0 +1,7 @@
+C06 Mar del Plata         5000 250
+C01 Mar chiquita          4000 220
+C03 Necochea              4500 175
+C04 Miramar               5500 250
+C02 Olavarria             6000 300
+C05 Pinamar               6000 320
+ZZZ                       0 0  

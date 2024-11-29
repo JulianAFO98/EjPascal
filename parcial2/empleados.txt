@@ -1,0 +1,10 @@
+Juan Perez                     4 Tecnico     150
+Maria Lopez                    2 Jefe        180
+Elena Fernandez                2 Ejecutivo   160
+Pepe                           1 Gerente     200
+Marquitos                      2 Tecnico     150
+Ramiro                         7 Tecnico     100
+Tomas                          3 Jefe        100
+Julian                         10 Jefe       100
+Felipe                         2 Tecnico     150
+Ciro                           2 Gerente     10

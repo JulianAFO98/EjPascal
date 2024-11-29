@@ -1,0 +1,4 @@
+Gerente   123
+Jefe      114
+Ejecutivo 95
+Tecnico   83
